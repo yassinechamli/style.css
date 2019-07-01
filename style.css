@@ -1,0 +1,120 @@
+*{
+    background-size: cover;
+    font-size:25px;
+    line-height: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0) ;
+    font-size: 100px;
+    font-style:italic ;
+    transform: translateX(0%) translateY(70%);
+}
+h2 {
+    color: rgb(4, 12, 31) ;
+    font-size: 40px ;
+    font-style: italic ;
+    
+}
+ul {
+    margin-left: 10px;
+    position: -webkit-sticky;
+    
+
+}
+ul li {
+    list-style: none;
+    display: inline-block ;
+    line-height: 100px;
+    
+}
+li{
+    margin-left: 30px;
+
+    
+}
+
+ul li a {
+    display: inline-block;
+    
+    font-size: 70px;
+    color: rgb(0, 0, 0) ;
+    padding: 10px ;
+    font-size: 30px;
+    
+}
+}
+input {
+    font-size: 20px;
+
+}
+button {
+    font-size: 20px;
+    color: rgb(248, 37, 0);
+}
+.pp
+{
+    font-size: 70px;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    transform: translateX(0%) translateY(60%);
+}
+select {
+    font-size: 20px;
+    color: rgb(248, 37, 0);
+    font-family: inherit;
+}
+.clover {
+    widows: 80px;
+    height: 60px;
+    display: inline-block;
+    margin-bottom: -25px;
+    border: 1px;
+
+}
+#nav{
+    background-color: rgb(248, 37, 0);
+    height: 100px;
+} 
+body {
+    background-image: url("GOMYCODE/test/fairy tail.jpg");
+}
+li :hover {
+    color: rgba(196, 192, 189, 0.904);
+    font-size: 40px;
+}
+.b1 {
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    flex-flow: row wrap;
+    border: 7px solid transparent;
+    border-color: black;
+    transition: .2s ease-in;
+}
+.a1 {
+    display: inline-block;
+    height: 250px;
+    width: 250px; 
+    flex-flow: row wrap;
+    border: 7px solid transparent;
+    border-color: black;
+    transition: .2s ease-in;
+}
+img{
+    margin: 15px;
+}
+.a1:hover{
+    opacity: 0.3;
+}
+.b1:hover {
+    opacity: 0.3;
+}
+.sheldon {
+    justify-content: flex-end;
+}
+
+
+
+   
